@@ -1,0 +1,62 @@
+
+.white-padding {
+    padding: 20px; /* ou la valeur que vous souhaitez */
+    background-color: #fcfcea;
+}
+
+
+.gray-padding {
+    padding: 20px; /* ou la valeur que vous souhaitez */
+    background-color: #c7ccbd; /* ou la couleur grise de votre choix */
+}
+
+
+.yellow-padding {
+    padding: 20px; /* ou la valeur que vous souhaitez */
+    background-color: #fcfcea;  /* ou la couleur grise de votre choix */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #fcfcea; /* Couleur de fond du texte */
+}
+
+header {
+    padding: 20px;
+    text-align: center;
+    background-color: #b71236;
+    color: white;
+}
+
+main {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section h2 {
+    color: #b71236;
+}
+
+.section p, .section ul {
+    margin-bottom: 20px;
+}
+
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+footer {
+    border-top: 1px solid #c7ccbd;
+}
